@@ -1,0 +1,8 @@
+🚀 Project Overview
+This project implements a basic smart farming solution designed to automate environmental monitoring and control for optimal crop growth. The system utilizes various sensors and actuators managed by a microcontroller programmed in C.
+
+Key Features:
+
+Environmental Monitoring: Reading data from sensors (e.g., temperature, humidity, soil moisture).
+
+Automated Control: Actuating devices like pumps or fans based on sensor data (e.g., watering plants when soil is too dry).
